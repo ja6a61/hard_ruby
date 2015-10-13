@@ -26,7 +26,7 @@ line2 = $stdin.gets.chomp
 print 'Line 3: '
 line3 = $stdin.gets.chomp
 
-puts "Gonna write these lines to the file just now..."
+puts 'Gonna write these lines to the file just now...''
 
 target.write(line1)
 target.write("\n")
