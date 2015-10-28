@@ -1,0 +1,53 @@
+Design and code a small simple text-based game in ruby.
+
+Use functions, classes, arrays, dictionaries and read, write and save files.
+
+Last Edit:
+
+Mon 26 Oct 2015
+
+A room based text adventure.
+
+Gold room. 
+Dragon room.
+Dungeon.
+Kitchen.
+Weapon room.
+Goblin room.
+Chess room.
+Blast ended scroots.
+
+Items:
+Dagger, sword, knife, spoon, fork, twine, shield, chess board, water bottle
+axe, reading glasses, an old book of spells, a glass phial of smoky liquid
+apples, bananas, bread, cheese, wine, elixr, paw paw, mango, avocado, rice
+chest, cloak, gauntles, fine leather gloves, silk scarf, a feathered cap
+goblet of grape juice
+
+Hero:
+Location
+Items possessed (Inventory)
+Health
+Hunger / Thirst
+Name, sex, age
+species:
+elf, dwarf, goblin, fairy, human, cat, fish
+
+Room:
+location name
+exits
+objects
+other creatures
+puzzles to be solved
+
+Order of play:
+continue saved game, start new game.
+define hero
+
+place in random starting room
+Options to look, pick up or drop items
+solve puzzles
+save game state
+quit
+win or die
+
